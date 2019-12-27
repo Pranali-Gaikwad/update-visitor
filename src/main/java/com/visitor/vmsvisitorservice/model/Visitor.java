@@ -10,7 +10,7 @@ import javax.persistence.Table;
 //import javax.validation.constraints.Pattern;
 
 @Entity
-@Table(name = "visitor")
+@Table(name = "visitorInfo12")
 public class Visitor {
 	
 	@Id
